@@ -1,0 +1,2 @@
+this is inside b file.
+this is first line
